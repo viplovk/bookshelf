@@ -1,0 +1,8 @@
+{
+  "name": "Leon Vasari — Filmography",
+  "description": "Filmography hero for fictional film director Leon Vasari featuring a 3D interactive VHS shelf, cover tilt, masked typography, and ink-bleed detail modal.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
